@@ -11,4 +11,6 @@ Study on a possible relationship between heritage scores and better placing in t
 
 ![image](https://github.com/giuseppemaiorano/soccer_heritage_score/assets/40656151/91fbeb42-6fd8-47ef-bf76-02ce740116fa)
 
+Data source: cannonstats.com
+
 📈 #DataScience #ChampionsLeague #FootballAnalytics #SportStatistics #TeamPerformance #HeritageImpact
